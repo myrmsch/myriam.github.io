@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: rgb: [236,77,30]
+  color: '#ec4d1e'
 
 # SEO
 marketing:
