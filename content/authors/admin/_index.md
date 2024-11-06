@@ -94,8 +94,8 @@ work:
     company_name: University of Wuerzburg
     company_url: 'https://www.wiwi.uni-wuerzburg.de/wibwl/team/wissenschaftliche-mitarbeiter/myriam-schaschek/'
     company_logo: 'https://www.wiwi.uni-wuerzburg.de/typo3conf/ext/uw_sitepackage/Resources/Public/Images/uni-wuerzburg-logo.svg'
-    date_start: 10/2020
-    date_end: '09/2024'
+    date_start: 2020-10-01
+    date_end: 2024-09-30
     summary: |2-
       Responsibilities include:
       - Application for, coordination and implementation of research projects
