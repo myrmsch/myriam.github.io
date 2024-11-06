@@ -11,7 +11,7 @@ last_name: Schaschek
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 📚
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,51 +20,46 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Wuerzburg
+    url: https://www.uni-wuerzburg.de/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:myriam.schaschek@uni-wuerzburg.de'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/myrmsch
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/myriam-schaschek/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=e7q-gQkAAAAJ&hl=de
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data-driven Decision Support
+  - Social & Cognitive Computing Systems
+  - Algorithmic Management
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Information Systems
+    institution: University of Wuerzburg
+    date_start: 2021-04-01
+    date_end: 2020-10-02
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Designing for Organizational Intelligence with Machine Learning_. Supervised by [Prof. Dr. Axel Winkelmann](https://www.wiwi.uni-wuerzburg.de/wibwl/team/lehrstuhlinhaber/). Presented papers at 3 international conferences in information systems. Contributions being published in leading information systems journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc International Economic Policy
+    institution: University of Wuerzburg
+    date_start: 03/2021
+    date_end: 10/2017 
     summary: |
       GPA: 3.8/4.0
 
@@ -72,8 +67,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: European Law Economist
+    institution: University of Wuerzburg
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -83,20 +78,33 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Business and Economics
+    institution: University of Wuerzburg
+    date_start: 10/2014 
+    date_end: 09/2017
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: Research Associate
+    company_name: University of Wuerzburg
+    company_url: 'https://www.wiwi.uni-wuerzburg.de/wibwl/team/wissenschaftliche-mitarbeiter/myriam-schaschek/'
+    company_logo: 'https://www.wiwi.uni-wuerzburg.de/typo3conf/ext/uw_sitepackage/Resources/Public/Images/uni-wuerzburg-logo.svg'
+    date_start: 10/2020
+    date_end: '09/2024'
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Application for, coordination and implementation of research projects
+      - Presentation of research results at international conferences
+      - Teaching courses in e.g., „Business Process Management and Analytics“
+      - Development of teaching materials and exam preparation
+      - Supervision of students for seminar papers, projects and theses
+  - position: Internship
+    company_name: WITTENSTEIN SE
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
@@ -183,4 +191,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Myriam Schaschek is a PhD Candidate at the University of Wuerzburg. Her research interests include artificial intelligence, data-driven decision making and social & cognitive computing systems. 
