@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: blue
+  color: rgb: [236,77,30]
 
 # SEO
 marketing:
