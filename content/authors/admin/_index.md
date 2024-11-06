@@ -58,8 +58,8 @@ education:
       url: 'https://example.com'
   - area: MSc International Economic Policy
     institution: University of Wuerzburg
-    date_start: 03/2021
-    date_end: 10/2017 
+    date_start: 2021-03-16
+    date_end: 2017-10-01 
     summary: |
       GPA: 3.8/4.0
 
@@ -69,8 +69,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: European Law Economist
     institution: University of Wuerzburg
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-03-16
+    date_end: 2017-10-01 
     summary: |
       GPA: 3.4/4.0
       
@@ -80,8 +80,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Business and Economics
     institution: University of Wuerzburg
-    date_start: 10/2014 
-    date_end: 09/2017
+    date_start: 2014-10-01 
+    date_end: 2017-09-30
     summary: |
       GPA: 3.4/4.0
       
@@ -107,8 +107,8 @@ work:
     company_name: WITTENSTEIN SE
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-10-01
+    date_end: 2020-02-28
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
