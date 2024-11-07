@@ -1,8 +1,8 @@
 ---
 title: "Predictive End-to-End Enterprise Process Network Monitoring"
 authors:
-- admin
 - Felix Oberdorf
+- admin
 - Sven Weinzierl
 - Nikolai Stein
 - Martin Matzner
@@ -19,7 +19,7 @@ publishDate: "2023-02-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Business Information Systems Engineering, 1*(65)"
+publication: "*Journal of Business Information Systems Engineering, 65, 49-64*(2023)"
 publication_short: ""
 
 abstract: Ever-growing data availability combined with rapid progress in analytics has laid the foundation for the emergence of business process analytics. Organizations strive to leverage predictive process analytics to obtain insights. However, current implementations are designed to deal with homogeneous data. Consequently, there is limited practical use in an organization with heterogeneous data sources. The paper proposes a method for predictive end-to-end enterprise process network monitoring leveraging multi-headed deep neural networks to overcome this limitation. A case study performed with a medium-sized German manufacturing company highlights the method’s utility for organizations.
@@ -28,7 +28,7 @@ abstract: Ever-growing data availability combined with rapid progress in analyti
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Deep Learning
 featured: true
 
 # links:
