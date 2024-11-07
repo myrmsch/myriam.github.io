@@ -82,13 +82,13 @@ education:
     institution: University of Wuerzburg
     date_start: 2014-10-01 
     date_end: 2017-09-30
-    summary: |
-      # GPA: 3.4/4.0
+    # summary: |
+    #   # GPA: 3.4/4.0
       
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   # Courses included:
+    #   # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Research Associate
     company_name: University of Wuerzburg
@@ -117,45 +117,45 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 30
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Cycling
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Reading
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Padel Tennis
-        description: ''
-        percent: 80
-        icon: camera
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: code-bracket
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
+#       - name: SQL
+#         description: ''
+#         percent: 30
+#         icon: circle-stack
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Cycling
+#         description: ''
+#         percent: 60
+#         icon: person-simple-walk
+#       - name: Reading
+#         description: ''
+#         percent: 100
+#         icon: cat
+#       - name: Padel Tennis
+#         description: ''
+#         percent: 80
+#         icon: camera
 
-languages:
-  - name: German
-    percent: 100
-  - name: English
-    percent: 90
-  - name: French
-    percent: 60
+# languages:
+#   - name: German
+#     percent: 100
+#   - name: English
+#     percent: 90
+#   - name: French
+#     percent: 60
 
 # Awards.
 #   Add/remove as many awards below as you like.
