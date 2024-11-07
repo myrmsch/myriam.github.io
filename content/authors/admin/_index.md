@@ -191,4 +191,6 @@ languages:
 
 ## About Me
 
-Myriam Schaschek is a PhD Candidate at the University of Wuerzburg. Her research interests include artificial intelligence, data-driven decision making and social & cognitive computing systems. 
+<!-- Myriam Schaschek is a PhD Candidate at the University of Wuerzburg. Her research interests include artificial intelligence, data-driven decision making and social & cognitive computing systems.  -->
+
+As a PhD Candidate and Research Associate at Julius-Maximilians-Universität Würzburg, I engage deeply in both teaching and research. My work focuses on developing socio-cognitive computing systems using machine learning to enhance decision-making across various domains. I study the impact of algorithmic decision-making on individual behavior and organizational structures, applying a mix of design, qualitative, quantitative, and computational research methods. My findings have been published in leading international journals and presented at major conferences.
