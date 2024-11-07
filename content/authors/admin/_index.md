@@ -53,42 +53,42 @@ education:
     date_end: 2020-10-02
     summary: |
       Thesis on _Designing for Organizational Intelligence with Machine Learning_. Supervised by [Prof. Dr. Axel Winkelmann](https://www.wiwi.uni-wuerzburg.de/wibwl/team/lehrstuhlinhaber/). Presented papers at 3 international conferences in information systems. Contributions being published in leading information systems journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: MSc International Economic Policy
     institution: University of Wuerzburg
     date_start: 2021-03-16
     date_end: 2017-10-01 
-    summary: |
-      GPA: 3.8/4.0
+    # summary: |
+    #   GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: European Law Economist
     institution: University of Wuerzburg
     date_start: 2021-03-16
     date_end: 2017-10-01 
-    summary: |
-      GPA: 3.4/4.0
+    # summary: |
+    #   GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Business and Economics
     institution: University of Wuerzburg
     date_start: 2014-10-01 
     date_end: 2017-09-30
     summary: |
-      GPA: 3.4/4.0
+      # GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # Courses included:
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Research Associate
     company_name: University of Wuerzburg
@@ -109,11 +109,11 @@ work:
     company_logo: ''
     date_start: 2019-10-01
     date_end: 2020-02-28
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#    summary: |
+#      Responsibilities include:
+#      - Migrated infrastructure to a new data center
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -130,7 +130,7 @@ skills:
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 30
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
