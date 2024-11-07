@@ -9,9 +9,9 @@ authors:
   - Robert Ford
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
 date: '2013-07-01T00:00:00Z'
 doi: ''
@@ -25,16 +25,23 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *XKDD Workshop Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases*
+publication_short: In *XKDD ECML Workshop Proceedings*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The volatile digital economy forces enterprises to tap into the
+potential of data-driven decision-making. Accordingly, proactive management of business processes is increasingly gaining momentum in information system research. In addition to the superior model performance of predictive models, the explainability of deep learning models
+becomes a crucial requirement for real-world applications. Although recent works on explainable predictive business process monitoring propose various explainability approaches, preliminary research has been
+conducted on evaluating explanations regarding their faithfulness. Since
+human-created ground truth for evaluating algorithms is often unavailable or subjective, objective metrics are needed to assess the faithfulness
+of explanations. We contribute to this research gap by quantitatively
+and qualitatively investigating the capabilities of different explainability methods for Graph Convolutional Neural Networks in the context of
+outcome prediction.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  - Graph Neural Networks
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,19 +51,19 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'http://xkdd2023.isti.cnr.it/papers/425.pdf'
+url_code: 'https://github.com/myrmsch/From-Black-Box-to-Glass-Box-Evaluating-Faithfulness-of-Process-Predictions-with-GCNNs'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/de/fotos/ein-haufen-verschiedenfarbiger-objekte-auf-einer-weissen-oberflache-RO_I_35SX7c?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)'
   focal_point: ''
   preview_only: false
 
@@ -65,23 +72,18 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+# projects:
+#   - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the _Cite_ button above to import publication metadata into your reference management software.
 {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

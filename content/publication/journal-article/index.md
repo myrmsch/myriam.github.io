@@ -28,7 +28,7 @@ abstract: Ever-growing data availability combined with rapid progress in analyti
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Deep Learning
+- Multi Head Neural Networks
 featured: true
 
 # links:
@@ -46,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/de/fotos/nahaufnahme-eines-spinnennetzes-37x7-sBhwf8)'
   focal_point: ""
   preview_only: false
 

@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: OrangeRed
+        color: black
         image:
           # Add your image background to `assets/media/`.
           filename: elliott-70adYpETLD8-unsplash.jpg
